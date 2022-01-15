@@ -3,5 +3,5 @@ module.exports = {
   devServer: {
       disableHostCheck: true
   },
-  // publicPath: '/vue-forms/'
+  publicPath: '/vue-forms/'
 }
